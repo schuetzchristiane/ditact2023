@@ -1,2 +1,3 @@
 Hier ist ein Text
 change me
+Aenderung für my-new-feature2
